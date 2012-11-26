@@ -1,0 +1,64 @@
+Partlist
+
+Exported from CatNip.sch at 2012/10/24/ 10:50 AM
+
+EAGLE Version 5.11.0 Copyright (c) 1988-2010 CadSoft
+
+Part     Value              Device                      Package        Library      Sheet
+
+BTN1     RESET              BUTTON_SMT                  EVQ-Q2         microbuilder 1
+BTN2     ISP                BUTTON_SMT                  EVQ-Q2         microbuilder 1
+* C1       16pF               CAP_CERAMIC0603             0603           microbuilder 1
+* C2       10µF               CAP_TANTALUMA/3216_REFLOW   EIA3216-18/A-R microbuilder 1
+* C3       10µF               CAP_TANTALUMA/3216_REFLOW   EIA3216-18/A-R microbuilder 1
+* C4                          CAP_ELECTROLYTICPANASONIC_C PANASONIC_C    microbuilder 1
+* C5       0.1µF              CAP_CERAMIC0603             0603           microbuilder 1
+* C6       0.1µF              CAP_CERAMIC0603             0603           microbuilder 1
+* C7       10µF               CAP_CERAMIC0805             0805           microbuilder 1
+* C8       10µF               CAP_CERAMIC0805             0805           microbuilder 1
+* C9       0.1µF              CAP_CERAMIC0603             0603           microbuilder 1
+* C11      0.1µF              CAP_CERAMIC0603             0603           microbuilder 1
+* C12      0.1µF              CAP_CERAMIC0603             0603           microbuilder 1
+* C14      16pF               CAP_CERAMIC0603             0603           microbuilder 1
+* C18      0.1µF              CAP_CERAMIC0603             0603           microbuilder 1
+CN1      USBMINIB           USBMINIB                    USB-MINIB      microbuilder 1
+* D1       BAT54C             BAT54C                      SOT23-R        microbuilder 1
+D2       CDBA120-G          DIODESMA                    SMADIODE       microbuilder 1
+JP1      POWER              HEADER-1X3                  1X03_OVAL      microbuilder 1
+JP2      SPI                HEADER-1X5                  1X05_OVAL      microbuilder 1
+JP3      I2C                HEADER-1X3                  1X03_OVAL      microbuilder 1
+JP4      USBEXT             HEADER-1X4                  1X04_OVAL      microbuilder 1
+JP5                         HEADER-1X10                 1X10_OVAL      microbuilder 1
+JP6                         HEADER-1X1                  1X01_OVAL      microbuilder 1
+JP8                         HEADER-1X5                  1X05_OVAL      microbuilder 1
+JP10     UART               HEADER-1X3                  1X03_OVAL      microbuilder 1
+JP11     GPIO2              HEADER-1X10                 1X10_OVAL      microbuilder 1
+JP12     POWERSOURCE SELECT JUMPER3                     JUMPER3        microbuilder 1
+JP14                        HEADER-1X1                  1X01_OVAL      microbuilder 1
+JP15     GPIO3              HEADER-1X4                  1X04_OVAL      microbuilder 1
+* LED1     POWER              LED0805                     CHIPLED_0805   microbuilder 1
+* LED2     2mA                LED0805                     CHIPLED_0805   microbuilder 1
+* LED3     USB                LED0805                     CHIPLED_0805   microbuilder 1
+* Q1       MMBT2907A          TRANSISTOR_PNPSOT23-REFLOW  SOT23-R        microbuilder 1
+* R1       10K                RESISTOR0603                0603           microbuilder 1
+* R2       10K                RESISTOR0603                0603           microbuilder 1
+* R3       10K                RESISTOR0603                0603           microbuilder 1
+* R4       10K                RESISTOR0603                0603           microbuilder 1
+* R6       1K                 RESISTOR0603                0603           microbuilder 1
+R7       100K               RESISTOR0603                0603           microbuilder 1
+* R8       1.0K               RESISTOR0603                0603           microbuilder 1
+* R9       150                RESISTOR0603                0603           microbuilder 1
+* R10      33                 RESISTOR0603                0603           microbuilder 1
+* R11      33                 RESISTOR0603                0603           microbuilder 1
+* R12      2K                 RESISTOR0603                0603           microbuilder 1
+* R13      150                RESISTOR0603                0603           microbuilder 1
+* R14      10K                RESISTOR0603                0603           microbuilder 1
+* R15      10K                RESISTOR0603                0603           microbuilder 1
+* R16      10K                RESISTOR0603                0603           microbuilder 1
+* R19      1.5K               RESISTOR0603                0603           microbuilder 1
+* U1       LPC1343FBD48       LPC1343_QFP                 LQFP48         microbuilder 1
+* U2       LM1117(3.3)        LM1117SOT223-REFLOW         SOT223-R       microbuilder 1
+* U3       MCP130T            MCP130TREFLOW               SOT23-R        microbuilder 1
+* U4       24AA32AFT-I/OT     24C32ASN                    SO-08          microchip    1
+X1                          W237-02P                    W237-132       con-wago-508 1
+Y2       12MHz              XTAL/S                      QS             special      1
